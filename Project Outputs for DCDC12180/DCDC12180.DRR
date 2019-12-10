@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DCDC12180.PcbDoc   06.12.2019  9:35:20
+NCDrill File Report For: DCDC12180.PcbDoc   09.12.2019  12:47:30
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII RoundHoles File : DCDC12180.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             1         PTH        0.00inch (0.00mm)
-T2      27mil (0.69mm)                                            Round             3         PTH        0.28inch (7.18mm)
+T2      27mil (0.69mm)                                            Round             3         PTH        0.34inch (8.67mm)
 T3      32mil (0.8mm)                                             Round             4         PTH        1.30inch (32.94mm)
 T4      35mil (0.9mm)                                             Round             8         PTH        0.90inch (22.86mm)
 T5      39mil (1mm)                                               Round             4         PTH        1.73inch (44.03mm)
