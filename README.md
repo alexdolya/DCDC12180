@@ -10,3 +10,6 @@ DC converter for NIXIE tube
 
 
 ![Image alt](https://github.com/alexdolya/DCDC12180/blob/master/pcb.jpg)
+
+
+Проект создавался в Altium Designer 17.
